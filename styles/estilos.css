@@ -1,0 +1,29 @@
+
+h1 { 
+    color: rgb(216, 1, 1);
+
+}
+
+h2,h3{
+    color:rgb(1, 2, 0);
+}
+button{
+    
+    color:rgba(7, 70, 15, 0.712);
+}
+.azul{
+    color: rgba(0, 201, 252, 0.897)
+}
+.naranja{
+    color: orange
+}
+.amarillo{
+    color:rgb(255, 238, 0)
+}
+.rojo{
+    color: rgba(252, 0, 0, 0.897)
+}
+body {
+ background-image:  "images/INSSA CS INOV.jpg"
+ 
+}
